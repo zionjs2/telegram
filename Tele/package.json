@@ -1,0 +1,16 @@
+{
+  "name": "ZyenxoTele",
+  "version": "1.0.0",
+  "description": "Telegram Bot Project",
+  "main": "system.js",
+  "scripts": {
+    "start": "node system.js"
+  },
+   "dependencies": {
+    "axios": "^1.7.7",
+    "js-confuser": "^1.7.3",
+    "telegraf": "^4.16.3"
+  },
+  "author": "KagenouDev",
+  "license": "MIT"
+}
